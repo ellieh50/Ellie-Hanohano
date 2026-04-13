@@ -1,15 +1,15 @@
 # FX Hedge Final Analysis & Recommendation
-## Stage 4 – Final Memo + Structured AI Prompt
+## Stage 4: Final Memo & Structured AI Prompt
 
-**Created by:** [Your Name]
-**Updated by:** [Your Name]
-**Date Created:** 2026-04-12
-**Date Updated:** 2026-04-12
-**Version:** 1.0
-**LLM Used:** Claude Sonnet 4.6
+**Created by:** Ellie Hanohano  
+**Updated by:** Ellie Hanohano  
+**Date Created:** April 12, 2026  
+**Date Updated:** April 12, 2026  
+**Version:**  1.0
+**LLM Used:**  Claude Sonnet 4.6
 
-**Role:** Financial Analyst / Treasury Analyst
-**Audience:** CFO or Director of Treasury
+**Role:** Financial Analyst / Treasury Analyst  
+**Audience:** CFO or Director of Treasury 
 
 ---
 
@@ -304,7 +304,7 @@ Before delivering the file, confirm:
 
 ---
 
-## G. Extra Credit — Areas for Further Study & Improvement
+## G. Extra Credit: Areas for Further Study & Improvement
 
 ### 1. AI Skills & Automation: From Static Model to Live Decision Tool
 
